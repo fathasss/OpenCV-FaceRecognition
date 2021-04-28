@@ -1,8 +1,9 @@
 # OpenCV-FaceRecognition
 OpenCV and deepFace with FaceRecognition
 
-OpenCV-FaceDetection uygulamasının gelişmiş hali.
-Fotoğraflardaki yüzleri algılar ve iki fotoğraf arasında kıyaslama yapar.
+OpenCV-FaceDetection uygulamasının gelişmiş hali.<br>
+Fotoğraflardaki yüzleri algılar ve iki fotoğraf arasında kıyaslama yapar.<br>
+Visual Studio Code ile yapıldı.
 
 ## Proje hedefi
 1.Tensorflow kullanılarak bir model oluşturup model tanımlı yüzleri tanıma.<br>
