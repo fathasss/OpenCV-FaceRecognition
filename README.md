@@ -1,9 +1,12 @@
 # OpenCV-FaceRecognition
 OpenCV and deepFace with FaceRecognition
 
+Visual Studio Code ile yapıldı.✔<br>
+
 OpenCV-FaceDetection uygulamasının gelişmiş hali.<br>
 Fotoğraflardaki yüzleri algılar ve iki fotoğraf arasında kıyaslama yapar.<br>
-Visual Studio Code ile yapıldı.
+DeepFace kütüphanesinin çalışabilmesi için vgg_face_weights.h5 modelinin yüklenmesi gerekmektedir.<br>
+Buradan yüklenebilir: https://drive.google.com/uc?id=1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo
 
 ## Proje hedefi
 1.Tensorflow kullanılarak bir model oluşturup model tanımlı yüzleri yapay zeka ile tanıma.<br>
@@ -23,3 +26,10 @@ pip install matplotlib
 - [x] Matplotlib use
 - [x] DeepFace use
 - [ ] Tensorflow use
+
+`dface = DeepFace.verify(path1,path2)` <br>
+`print(dface)` <br>
+
+`{'verified': True, 'distance': 0.2926552891731262, 'max_threshold_to_verify': 0.4, 'model': 'VGG-Face', 'similarity_metric': 'cosine'}`
+
+- [x] `verified: True` Yüzlerin aynı olduğunu belirtir.
