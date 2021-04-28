@@ -3,7 +3,7 @@ OpenCV and deepFace with FaceRecognition
 
 Visual Studio Code ile yapıldı.✔<br>
 
-OpenCV-FaceDetection uygulamasının gelişmiş hali.<br>
+OpenCV-FaceDetection uygulamasının gelişmiş hali. Buradan göz gezdirebilirsin: https://github.com/fathasss/OpenCV-FaceDetection<br>
 Fotoğraflardaki yüzleri algılar ve iki fotoğraf arasında kıyaslama yapar.<br>
 DeepFace kütüphanesinin çalışabilmesi için vgg_face_weights.h5 modelinin yüklenmesi gerekmektedir.<br>
 Buradan yüklenebilir: https://drive.google.com/uc?id=1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo
