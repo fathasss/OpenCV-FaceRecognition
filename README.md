@@ -6,7 +6,7 @@ Fotoğraflardaki yüzleri algılar ve iki fotoğraf arasında kıyaslama yapar.<
 Visual Studio Code ile yapıldı.
 
 ## Proje hedefi
-1.Tensorflow kullanılarak bir model oluşturup model tanımlı yüzleri tanıma.<br>
+1.Tensorflow kullanılarak bir model oluşturup model tanımlı yüzleri yapay zeka ile tanıma.<br>
 2.TensorBoard ile modelin eğitim grafiklerinin görünmesi.
 
 ```
